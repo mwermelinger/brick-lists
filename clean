@@ -1,0 +1,4 @@
+# !/bin/bash
+
+# the double-quotes are to preserve space in file names
+sed -Ei~ '/^.(MAXPRICE|CONDITION|QTYFILLED)/d' "$@"

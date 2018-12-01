@@ -1,1 +1,25 @@
-# brick lists
+# Brick lists
+
+This is a repository of parts lists for various LEGO models I've built.
+The models are taken from books and websites.
+I have no commercial affiliation with the models' authors or publishers.
+
+The parts lists are in
+[Bricklink's XML format](https://www.bricklink.com/help.asp?helpID=207).
+You can upload the lists to [Bricklink](http://bricklink.com),
+[BrickOwl](http://brickowl.com) or [Rebrickable](http://rebrickable.com)
+to order the parts.
+
+The lists don't include the parts' condition (new/used) and maximum price,
+as those criteria are up to you,
+but I have assumed you don't want to be notified when new parts are for sale.
+
+I left the colour unspecified for parts that are not visible from the outside,
+but noted the original colour in the part's REMARKS field.
+By explicitly noting for which parts the colour doesn't matter,
+you will be able to reuse more of your own parts,
+or buy cheaper used parts from a larger variety of sellers.
+
+This repository does _not_ include the instructions to build the models.
+You will have to buy or borrow the corresponding book or
+follow the link to the corresponding website.
