@@ -1,8 +1,9 @@
 # Brick lists
 
-This is a repository of parts lists for various LEGO models I've built.
+This is a repository of parts lists and images for some LEGO models I've built.
 The models are taken from books and websites.
-I have no commercial affiliation with the models' authors or publishers.
+The images are my own scans.
+I have no commercial affiliation with the model authors or book publishers.
 
 The parts lists are in
 [Bricklink's XML format](https://www.bricklink.com/help.asp?helpID=207).
